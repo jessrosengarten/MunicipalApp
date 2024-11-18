@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\servicerequeststatuswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:servicerequeststatuswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|c:\\users\\jess\\source\\repos\\prog7312 st10153811 poe final\\municipal_app\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\eventsandannouncements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:eventsandannouncements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\eventsandannouncementswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:eventsandannouncementswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\reportissueswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:reportissueswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\servicerequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:servicerequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\servicerequeststatuswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:servicerequeststatuswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\eventsandannouncementswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:eventsandannouncementswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\eventsandannouncementsstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:eventsandannouncementsstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\reportissueswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:reportissueswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\reportissuestyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E68A8C45-1014-4D75-BBE7-B667A9C532B5}|Municipal_App.csproj|solutionrelative:reportissuestyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\EventManager.cs",
+              "RelativeDocumentMoniker": "EventManager.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\EventManager.cs",
+              "RelativeToolTip": "EventManager.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:25:11.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AVLTree.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\AVLTree.cs",
+              "RelativeDocumentMoniker": "AVLTree.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\AVLTree.cs",
+              "RelativeToolTip": "AVLTree.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAQwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:36:54.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoublyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\DoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "DoublyLinkedList.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\DoublyLinkedList.cs",
+              "RelativeToolTip": "DoublyLinkedList.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:23:23.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRequestStatusWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ServiceRequestStatusWindow.xaml",
+              "RelativeDocumentMoniker": "ServiceRequestStatusWindow.xaml",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ServiceRequestStatusWindow.xaml",
+              "RelativeToolTip": "ServiceRequestStatusWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T18:21:04.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportIssuesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ReportIssuesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReportIssuesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ReportIssuesWindow.xaml.cs",
+              "RelativeToolTip": "ReportIssuesWindow.xaml.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:31:43.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MinHeap.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\MinHeap.cs",
+              "RelativeDocumentMoniker": "MinHeap.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\MinHeap.cs",
+              "RelativeToolTip": "MinHeap.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAYwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:10:07.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRequestManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ServiceRequestManager.cs",
+              "RelativeDocumentMoniker": "ServiceRequestManager.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ServiceRequestManager.cs",
+              "RelativeToolTip": "ServiceRequestManager.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:22:32.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceRequestStatusWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ServiceRequestStatusWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ServiceRequestStatusWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ServiceRequestStatusWindow.xaml.cs",
+              "RelativeToolTip": "ServiceRequestStatusWindow.xaml.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAYwM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:20:10.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventsAndAnnouncementsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\EventsAndAnnouncementsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EventsAndAnnouncementsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\EventsAndAnnouncementsWindow.xaml.cs",
+              "RelativeToolTip": "EventsAndAnnouncementsWindow.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwMAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:12:31.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "eventsAndAnnouncements.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\eventsAndAnnouncements.cs",
+              "RelativeDocumentMoniker": "eventsAndAnnouncements.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\eventsAndAnnouncements.cs",
+              "RelativeToolTip": "eventsAndAnnouncements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:03:02.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ServiceRequest.cs",
+              "RelativeToolTip": "ServiceRequest.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wCcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:03:02.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwD8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:42:39.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T17:42:35.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\Issue.cs",
+              "RelativeDocumentMoniker": "Issue.cs",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\Issue.cs",
+              "RelativeToolTip": "Issue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:42:28.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventsAndAnnouncementsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\EventsAndAnnouncementsWindow.xaml",
+              "RelativeDocumentMoniker": "EventsAndAnnouncementsWindow.xaml",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\EventsAndAnnouncementsWindow.xaml",
+              "RelativeToolTip": "EventsAndAnnouncementsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T17:32:35.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventsAndAnnouncementsStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\EventsAndAnnouncementsStyles.xaml",
+              "RelativeDocumentMoniker": "EventsAndAnnouncementsStyles.xaml",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\EventsAndAnnouncementsStyles.xaml",
+              "RelativeToolTip": "EventsAndAnnouncementsStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T17:07:35.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportIssuesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ReportIssuesWindow.xaml",
+              "RelativeDocumentMoniker": "ReportIssuesWindow.xaml",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ReportIssuesWindow.xaml",
+              "RelativeToolTip": "ReportIssuesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T18:27:28.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportIssueStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ReportIssueStyles.xaml",
+              "RelativeDocumentMoniker": "ReportIssueStyles.xaml",
+              "ToolTip": "C:\\Users\\Jess\\source\\repos\\PROG7312 ST10153811 POE Final\\Municipal_App\\ReportIssueStyles.xaml",
+              "RelativeToolTip": "ReportIssueStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T18:28:06.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

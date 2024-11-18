@@ -1,0 +1,45 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Style for TextBlock -->
+    <Style TargetType="TextBlock">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Margin" Value="0,0,0,10"/>
+    </Style>
+
+    <!-- Style for ListBox -->
+    <Style TargetType="ListBox">
+        <Setter Property="BorderBrush" Value="#2196F3"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="Padding" Value="5"/>
+        <Setter Property="Margin" Value="0,0,10,0"/>
+    </Style>
+
+    <!-- Style for RichTextBox -->
+    <Style TargetType="RichTextBox">
+        <Setter Property="Margin" Value="0,0,0,20"/>
+        <Setter Property="IsReadOnly" Value="True"/>
+        <Setter Property="Background" Value="White"/>
+        <Setter Property="BorderBrush" Value="#2196F3"/>
+        <Setter Property="BorderThickness" Value="1"/>
+    </Style>
+
+    <!-- Style for Image -->
+    <Style TargetType="Image">
+        <Setter Property="Stretch" Value="UniformToFill"/>
+        <Setter Property="Margin" Value="0,0,0,20"/>
+    </Style>
+
+    <!-- Style for Button -->
+    <Style TargetType="Button">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="Padding" Value="10"/>
+        <Setter Property="Margin" Value="5"/>
+        <Setter Property="Background" Value="#2196F3"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="BorderThickness" Value="1"/>
+    </Style>
+
+</ResourceDictionary>

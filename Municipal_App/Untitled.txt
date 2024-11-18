@@ -1,0 +1,90 @@
+************************************************************************
+	ST10153811 
+	PROG7312 POE Task 1
+		
+	README to setup and run the Municipality_App application
+************************************************************************
+
+************************************************************************
+*  CONTENTS:
+************************************************************************
+
+This document contains the following sections:
+
+1.  Overview
+2.  System Requirements
+3.  Installing/Configuring the Software 
+
+************************************************************************
+* 1.  OVERVIEW
+************************************************************************
+
+==> Application structure:
+ = C# .NET Framework
+ = Utilizes a custom Doubly Linked List for managing issues
+ = WPF for the user interface
+
+The Municipality_App application is designed to streamline municipal services for 
+residents in South Africa. The application provides a user-friendly platform for citizens to:
+
+	1. Report issues and request services
+	2. Access information about local events and announcements
+	3. Receive updates on the status of their service requests
+
+The application is provisioned with the following functionalities:
+
+	1. Report Issues: Users can submit reports including location, category, 
+		description, and media attachments.
+
+	2. View Issues: Users can view and navigate through reported issues, 
+		including details and media attachments.
+		
+
+************************************************************************
+* 2.  SYSTEM REQUIREMENTS
+************************************************************************
+
+1.  The system must be running on one of the following
+    operating systems:
+    
+    - Microsoft Windows 10
+   
+2. The following operating systems are not supported:
+
+    Any version of the following Microsoft operating systems:
+    - MS-DOS
+    - Windows 3.1
+    - Windows NT 3.51
+    - Windows 95
+    - Windows 98
+    - Windows NT 4.0
+
+    Any version of the following operating systems:
+    - Linux 
+
+3.  The system should contain at least the minimum system 
+    memory required by the operating system.
+
+4. The following additional software is required 
+ 
+	- Microsoft Visual Studio Community 2019 Version 16.9.4
+    	- Microsoft.NET Framework Version 6.0 
+
+************************************************************************
+* 3.  INSTALLING/CONFIGURING THE SOFTWARE
+************************************************************************
+
+1. Unzip the folder 
+   (Right click on folder and then select extract all)
+   - Included in this folder:
+	= Municipality_App
+
+
+2. Open file in Visual Studio
+    - Open the folder
+
+	
+3. Configuration complete, run application
+	- In Visual Studio, click RUN (green play icon) to compile and run the program
+
+

@@ -1,0 +1,49 @@
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\Municipal_App.csproj.AssemblyReference.cache
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\MainWindow.g.cs
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\ReportIssuesWindow.g.cs
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\App.g.cs
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\Municipal_App_MarkupCompile.cache
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\Municipal_App_MarkupCompile.lref
+C:\Users\Jess\source\repos\Municipal_App\bin\Debug\Municipal_App.exe.config
+C:\Users\Jess\source\repos\Municipal_App\bin\Debug\Municipal_App.exe
+C:\Users\Jess\source\repos\Municipal_App\bin\Debug\Municipal_App.pdb
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\MainWindow.baml
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\ReportIssuesWindow.baml
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\Municipal_App.g.resources
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\Municipal_App.Properties.Resources.resources
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\Municipal_App.csproj.GenerateResource.cache
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\Municipal_App.csproj.CoreCompileInputs.cache
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\Municipal_App.exe
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\Municipal_App.pdb
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\ViewIssuesWindow.g.cs
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\ViewIssuesWindow.baml
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\MainMenuStyles.baml
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\ReportIssueStyles.baml
+C:\Users\Jess\source\repos\Municipal_App\obj\Debug\ViewIssueStyles.baml
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\bin\Debug\Municipal_App.exe.config
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\bin\Debug\Municipal_App.exe
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\bin\Debug\Municipal_App.pdb
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\Municipal_App.csproj.AssemblyReference.cache
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\ReportIssueStyles.baml
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\MainMenuStyles.baml
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\ViewIssueStyles.baml
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\MainWindow.g.cs
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\ReportIssuesWindow.g.cs
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\ViewIssuesWindow.g.cs
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\App.g.cs
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\Municipal_App_MarkupCompile.cache
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\Municipal_App_MarkupCompile.lref
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\MainWindow.baml
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\ReportIssuesWindow.baml
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\ViewIssuesWindow.baml
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\Municipal_App.g.resources
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\Municipal_App.Properties.Resources.resources
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\Municipal_App.csproj.GenerateResource.cache
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\Municipal_App.csproj.CoreCompileInputs.cache
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\Municipal_App.exe
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\Municipal_App.pdb
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\EventsAndAnnouncementsWindow.g.cs
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\EventsAndAnnouncementsWindow.baml
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\EventsAndAnnouncementssTYLES.baml
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\ServiceRequestStatusWindow.g.cs
+C:\Users\Jess\source\repos\original municipal app\Municipal_App\obj\Debug\ServiceRequestStatusWindow.baml

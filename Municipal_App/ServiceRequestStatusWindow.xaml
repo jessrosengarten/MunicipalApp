@@ -1,0 +1,80 @@
+﻿<Window x:Class="Municipal_App.ServiceRequestStatusWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Service Request Status" Height="500" Width="800" Background="AliceBlue">
+
+    <!-- Define a Style Resource for Buttons -->
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Background" Value="#2196F3"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Sort section -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="5">
+            <Button Content="Sort by Status" Width="120" Margin="5" Click="btnSortByStatus_Click"/>
+            <Button Content="Sort by Category" Width="139" Margin="5" Click="btnSortByCategory_Click"/>
+        </StackPanel>
+
+        <!-- Search section -->
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="5">
+            <TextBox x:Name="txtSearchByID" Width="150" Margin="5" />
+            <Button Content="Search by ID" Width="120" Margin="5" Click="btnSearchByID_Click"/>
+
+            <TextBox x:Name="txtSearchByCategory" Width="150" Margin="5" />
+            <Button Content="Search by Category" Width="150" Margin="5" Click="btnSearchByCategory_Click"/>
+
+            <TextBox x:Name="txtSearchByStatus" Width="150" Margin="5" />
+            <Button Content="Search by Status" Width="150" Margin="5" Click="btnSearchByStatus_Click"/>
+        </StackPanel>
+
+        <!-- Clear button -->
+        <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center" Margin="5">
+            <Button Content="Clear" Width="120" Click="btnClear_Click"/>
+        </StackPanel>
+
+        <!-- DataGrid for displaying service requests -->
+        <DataGrid x:Name="dgServiceRequests" Grid.Row="3" AutoGenerateColumns="False" CanUserAddRows="False"
+                  HeadersVisibility="Column" Margin="0,10,0,10">
+            <DataGrid.Resources>
+                <Style TargetType="DataGridRow">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Status}" Value="Pending">
+                            <Setter Property="Background" Value="LightGreen" />
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding Status}" Value="In Progress">
+                            <Setter Property="Background" Value="LightBlue" />
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding Status}" Value="Completed">
+                            <Setter Property="Background" Value="LightPink" />
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Request ID" Binding="{Binding RequestID}" Width="*"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="*"/>
+                <DataGridTextColumn Header="Progress Description" Binding="{Binding ProgressDescription}" Width="*"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="2*"/>
+                <DataGridTextColumn Header="Category" Binding="{Binding Category}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Back button -->
+        <Button Content="Back" Width="80" HorizontalAlignment="Right" Grid.Row="4" Click="btnBack_Click"/>
+    </Grid>
+</Window>
